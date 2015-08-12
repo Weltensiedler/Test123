@@ -1,0 +1,8 @@
+name: BungeeMoney
+version: 1.0
+author: CursedCookiie
+main: main.Main
+
+commands:
+  broadcast:
+    aliases: [b]
